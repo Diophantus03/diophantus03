@@ -27,3 +27,19 @@ Hey! I am a BMath (honours) student double majoring in Pure mathematics and Comb
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sachink003&theme=dracula&layout=compact&langs_count=7" />
   </p>
 </div>
+
+<!--- 
+<div align = "center">
+  <p>
+   <img src="./profile-3d-contrib/profile-night-rainbow.svg" />
+   ![](./profile-3d-contrib/profile-green-animate.svg)
+    
+  </p>
+</div>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=bash,c,cpp,cs,js,html,css,figma,firebase,flask,flutter,git,graphql,haskell,heroku,java,kotlin,linux,mongodb,mysql,nextjs,nodejs,postgres,py,redis,react,rust,swift,typescript,vscode" />
+  </a>
+</p>
+-->
