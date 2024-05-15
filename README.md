@@ -1,9 +1,9 @@
 <h1 align="center">
-  <b>Prabhav Khera</b>
+  <b>Sachin Kumart</b>
 </h1>
 <!-- <img align="right" width=400px height=400px alt="landing gif" src="https://github.com/probro27/landing-design/blob/main/PK%20.gif" /> -->
 
-Hey! I'm Prabhav Khera, candidate of **B. Computer Science(BCS) with Artificial Intelligence Specialization** at University of Waterloo.
+Hey! I am a BMath (honours) student double majoring in Pure mathematics and Combinatorics & Optimization at the University of Waterloo, Canada.
 
 ## My Stats
 
