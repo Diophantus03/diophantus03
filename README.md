@@ -5,6 +5,13 @@
 
 Hey! I am a BMath (honours) student double majoring in Pure mathematics and Combinatorics & Optimization at the University of Waterloo, Canada.
 
+My primary research interests are in the field of algebraic number theory, arithmetic algebraic geometry, cryptology and proof formalization (in L∃∀N). Specifically, I am interested in understanding:
+
+1. Higher dimensional Galois representations (infinite Galois theory) attached to automorphic forms and algebraic varieties (and its generalizations) over local and global fields (Langland's Program)
+2. Iwasawa theory and Class field theory
+3. Arithmetic statistics
+4. Mathematics of Cryptology
+
 ## My Stats
 
 <br/>
