@@ -1,16 +1,29 @@
-### Hi there 👋
+<h1 align="center">
+  <b>Prabhav Khera</b>
+</h1>
+<!-- <img align="right" width=400px height=400px alt="landing gif" src="https://github.com/probro27/landing-design/blob/main/PK%20.gif" /> -->
 
-<!--
-**Sachink003/sachink003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hey! I'm Prabhav Khera, candidate of **B. Computer Science(BCS) with Artificial Intelligence Specialization** at University of Waterloo.
 
-Here are some ideas to get you started:
+## My Stats
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br/>
+<p align="center">
+  <a href="https://abhigyantrips.dev/">
+  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=sachink003&show_icons=true&theme=dracula&hide_border=true" />
+    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=sachink003&theme=dracula&hide_border=true" />
+    
+  </a>
+</p>
+<br>
+
+
+<div align = "center">
+  <img align="center" src= "https://github-profile-trophy.vercel.app/?username=sachink003&theme=dracula&rank=SECRET,SSS,SS,AAA,B&margin-w=10" />
+</div>
+<br>
+<div align = "center">
+  <p>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sachink003&theme=dracula&layout=compact&langs_count=7" />
+  </p>
+</div>
