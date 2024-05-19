@@ -8,7 +8,7 @@ Hey! I am a BMath (honours) student double majoring in Pure mathematics and Comb
 My primary research interests are in the field of algebraic number theory, arithmetic algebraic geometry, cryptology and proof formalization. Specifically, I am interested in understanding:
 
 1. Higher dimensional Galois representations (infinite Galois theory) attached to automorphic forms and algebraic varieties (and its generalizations) over local and global fields (Langland's Program)
-2. Iwasawa theory and Class field theory
+2. Theory of cyclotomic fields and Class field theory
 3. Arithmetic statistics and Arithmetic topology
 4. Mathematics of Theoretical Cryptology and Proof formalization (in L∃∀N)
 
