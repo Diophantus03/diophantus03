@@ -9,7 +9,7 @@ My primary research interests are in the field of algebraic number theory, arith
 
 1. Higher dimensional Galois representations (infinite Galois theory) attached to automorphic forms and algebraic varieties (and its generalizations) over local and global fields (Langland's Program)
 2. Iwasawa theory and Class field theory
-3. Arithmetic statistics and arithmetic topology
+3. Arithmetic statistics and Arithmetic topology
 4. Mathematics of Theoretical Cryptology and Proof formalization (in L∃∀N)
 
 ## My Stats
