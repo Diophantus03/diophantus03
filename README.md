@@ -9,8 +9,8 @@ My primary research interests are in the field of algebraic number theory, arith
 
 1. Higher dimensional Galois representations (infinite Galois theory) attached to automorphic forms and algebraic stacks over local and global fields (arithmetic Langland's program)
 2. Theory of cyclotomic fields (Iwasawa Theory) and Class field theory
-3. Dedekind ζ-function and Hecke L-function (generalizations of Riemann ζ-function and Dirichlet L-functions to an algebraic number field)
-4. Scholze's theories (perfectoid spaces, prismatic cohomology, condensed math et al.)
+3. Dedekind ζ-function and Hecke L-function (generalizations of Riemann ζ-function and Dirichlet L-functions for a number field)
+4. Scholze's theories (perfectoid spaces, prismatic cohomology, condensed mathematics et al.)
 5. Mathematics of Theoretical Cryptology and Proof formalization (in L∃∀N)
 
 ## My Stats
