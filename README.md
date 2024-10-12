@@ -19,8 +19,8 @@ My primary research interests are in the field of algebraic number theory, arith
 <br/>
 <p align="center">
   <a href="https://abhigyantrips.dev/">
-  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=sachink003&show_icons=true&theme=dracula&hide_border=true" />
-    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=sachink003&theme=dracula&hide_border=true" />
+  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=diophantus03&show_icons=true&theme=dracula&hide_border=true" />
+    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=diophantus03&theme=dracula&hide_border=true" />
     
   </a>
 </p>
@@ -28,12 +28,12 @@ My primary research interests are in the field of algebraic number theory, arith
 
 
 <div align = "center">
-  <img align="center" src= "https://github-profile-trophy.vercel.app/?username=sachink003&theme=dracula&rank=SECRET,SSS,SS,AAA,B&margin-w=10" />
+  <img align="center" src= "https://github-profile-trophy.vercel.app/?username=diophantus03&theme=dracula&rank=SECRET,SSS,SS,AAA,B&margin-w=10" />
 </div>
 <br>
 <div align = "center">
   <p>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sachink003&theme=dracula&layout=compact&langs_count=7" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=diophantus03&theme=dracula&layout=compact&langs_count=7" />
   </p>
 </div>
 
