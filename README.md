@@ -3,16 +3,11 @@
 </h1>
 <!-- <img align="right" width=400px height=400px alt="landing gif" src="https://github.com/probro27/landing-design/blob/main/PK%20.gif" /> -->
 
-Hey! I am a BMath (honours) student double majoring in Pure mathematics and Combinatorics & Optimization at the University of Waterloo, Canada.
+Hey! I am a BMath (honours) student majoring in pure mathematics, mathematical finance and combinatorics & optimization at the University of Waterloo, Canada.
 
-My primary research interests are in the field of algebraic number theory, arithmetic algebraic geometry, cryptology and proof formalization. Specifically, I am interested in understanding:
+My primary research interests are in the field of Algebraic and analytic number theory, Algebraic geometry and arithmetic geometry (with Diophantine geometry), Algebraic combinatorics, and Automated theorem proving (in L∃∀N).
 
-1. Higher dimensional Galois representations (infinite Galois theory) attached to automorphic forms and algebraic stacks over local and global fields (arithmetic Langland's program)
-2. Iwasawa Theory (Theory of cyclotomic fields) and Class field theory (describing all the abelian Galois extensions of local and global fields using objects associated to the ground field)
-3. Dedekind ζ and Hecke L-functions (generalization of Riemann ζ and Dirichlet L-functions to number field)
-4. Arithmetic statistics and Bhargavology (asymptotics for number field and class groups, counting arithmetic objects, heuristics on the ranks of elliptic curves et al.)
-5. Scholze's theories (perfectoid spaces, prismatic cohomology, condensed math et al.)
-6. Theoretical CS (Cryptology, Proof formalization in L∃∀N, models of computation, algorithmic number theory, computationl algebraic geometry, computer algebra et al.)
+In essence, I find joy in delving into every facet of mathematics, be it applied or pure, though I hold a special fondness for the abstract beauty of the latter. My curiosity extends to theoretical computer science and even to theoretical physics, despite my limited knowledge in the latter, I remain captivated by its elegance and depth.
 
 ## My Stats
 
