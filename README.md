@@ -3,11 +3,13 @@
 </h1>
 <!-- <img align="right" width=400px height=400px alt="landing gif" src="https://github.com/probro27/landing-design/blob/main/PK%20.gif" /> -->
 
-Hey! I am a BMath (honours) student majoring in pure mathematics, mathematical finance and combinatorics & optimization at the University of Waterloo, Canada.
+Hey! I am a BMath (honours) student majoring in pure mathematics at the University of Waterloo, Canada.
 
-My primary research interests are in the field of Algebraic and analytic number theory, Algebraic geometry and arithmetic geometry (with Diophantine geometry), Algebraic combinatorics, and Automated theorem proving (in L∃∀N).
+My primary research interests are in the field of 
+- Number theory (with Arithmetic statistics & Arithmetic geometry) and Algebraic geometry.
+- Probability theory, Stochastic process & analysis (with SDE's) and Mathematical statistics.
 
-In essence, I find joy in delving into every facet of mathematics, be it applied or pure, though I hold a special fondness for the abstract beauty of the latter. My curiosity extends to theoretical computer science and even to theoretical physics, despite my limited knowledge in the latter, I remain captivated by its elegance and depth.
+In general, I find joy in delving into every facet of mathematics, be it applied or pure, though I hold a special fondness for the abstract beauty of the latter. My curiosity extends to theoretical computer science and even to theoretical (mathematical) physics and astrophysics, despite my limited knowledge in the latter, I remain captivated by its elegance and depth.
 
 ## My Stats
 
