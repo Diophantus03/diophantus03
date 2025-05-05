@@ -5,9 +5,15 @@
 
 Hey! I am a (honours) undergraduate student majoring in mathematics at the University of Waterloo, Canada.
 
-My research interests are in the field of number theory (analytic & probabilistic number theory and arithmetic statistics & Bhargavology) and probability theory (stochastic process & analysis (with SDE's) and mathematical statistics).
+My research interests are in Number theory (Arithmetic statistics, Probabilistic and Analytic number theory), Probability theory on general spaces (like topological, ...), Stochastic processes and its analysis (including stochastic differential equation's), Asymptotic and convergent analysis in \textcolor{red}{mathematical statistics (Statistical inference)}, Continuous-time mathematical finance using Malliavin calculus (including Quantitative Risk theory), 
+<!-- (a.k.a Quantitative and computational finance, Financial engineering and Financial mathematics) -->
+Actuarial Science and (General and Financial) Econometric theory. 
 
-In general, I find joy in delving into every facet of mathematics, be it applied or pure, though I hold a special fondness for the abstract beauty of the latter.
+In general, I am interested in Mathematics, Statistics and Computer science. 
+Additionally, I am also interested in Machine Learning (AI and ML) and Data science from a theoretical perspective and applications in finance and risk management. 
+My formal academic training lies in econometrics, statistics and pure mathematics.   
+
+<!-- In general, I find joy in delving into every facet of mathematics, be it applied or pure, though I hold a special fondness for the abstract beauty of the latter.  -->
 
 ## My Stats
 
