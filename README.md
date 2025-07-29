@@ -5,14 +5,12 @@
 
 Hey! I am a (honours) undergraduate student majoring in mathematics at the University of Waterloo, Canada.
 
-My research interests are in Number theory (Arithmetic statistics, Probabilistic and Analytic number theory), Probability theory (behaviour of probability measures on topological spaces), Stochastic processes and its analysis (including stochastic differential equation's), Asymptotic and convergent analysis of statistical estimators (Mathematical Statistics - Statistical inference), Continuous-time mathematical finance using Malliavin calculus (including Quantitative Risk theory), Actuarial risk science and (General and Financial) Econometric theory. 
-<!-- (a.k.a Quantitative and computational finance, Financial engineering and Financial mathematics) -->
-
-In general, I am interested in Mathematics, Statistics and Computer science. 
-Additionally, I am also interested in Machine Learning (AI and ML) and Data science from a theoretical perspective and applications in finance and risk management. 
-My formal academic training lies in econometrics, statistics and pure mathematics.   
-
-<!-- In general, I find joy in delving into every facet of mathematics, be it applied or pure, though I hold a special fondness for the abstract beauty of the latter.  -->
+My research interests are in the field of: 
+- Analytic and probabilistic number theory (Additive and multiplicatiive number theory - moments of L-functions, sieve methods and gap between primes, large deviation principle and limit distributions of arithmetic functions with generalized Erdös-Kac and Selberg's CLT)
+- Arithmetic statistics and combinatorial number theory (average behavior and distribution of elliptic curves and class groups, theory of modular forms and automorphic forms, arithmetic (additive) combinatorics, probabilistic and analytic combinatorics)
+- Probability theory and Stochastic analysis (Limit theorems and large deviation theory on generalized topological spaces, Stochastic partial differential equations, random fields, random matrix theory, mixing times of markov chains)
+- Mathematical statistics and Statistical theory (Asymptotic and convergence methods for statistical estimators and statistical inference theory)
+- Applications: Mathematical finance (Continuous-time models using Malliavin and Itô's calculus), Quantatiative risk theory (Generalized risk measures, copula's, extreme value theory, ruin theory), Econometric theory and Mathematical economic theory (Generalized empirical likelihood and method of moments, utility theory)
 
 ## My Stats
 
