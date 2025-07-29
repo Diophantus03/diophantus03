@@ -6,7 +6,7 @@
 Hey! I am a (honours) undergraduate student majoring in mathematics at the University of Waterloo, Canada.
 
 My research interests are in the field of: 
-- Analytic and probabilistic number theory (Additive and multiplicatiive number theory - moments of L-functions, sieve methods and gap between primes, large deviation principle and limit distributions of arithmetic functions with generalized Erdös-Kac and Selberg's CLT)
+- Analytic and probabilistic number theory (Additive and multiplicatiive number theory - moments of L-functions, sieve methods and gap between primes, large deviation principle and limit distributions of arithmetic functions with generalized Erdös-Kac and Selberg's CLT; Diophantine approximation)
 - Arithmetic statistics and combinatorial number theory (average behavior and distribution of elliptic curves and class groups, theory of modular forms and automorphic forms, arithmetic (additive) combinatorics, probabilistic and analytic combinatorics)
 - Probability theory and Stochastic analysis (Limit theorems and large deviation theory on generalized topological spaces, Stochastic partial differential equations, random fields, random matrix theory, mixing times of markov chains)
 - Mathematical statistics and Statistical theory (Asymptotic and convergence methods for statistical estimators and statistical inference theory)
